@@ -2,8 +2,7 @@ Translations
 ------------
 
 Here you can find any translation from English to Greek (or vise versa) written by me.
-You can notify me for any translation's mistakes I have made in my e-mail 
-(<a href="mailto:pntanasis@gmail.com?subject=Translation-GitHub">pntanasis@gmail.com</a>).
+You can notify me for any translation's mistakes I have made via (<a href="mailto:pntanasis@gmail.com?subject=Translation-GitHub">e-mail</a>).
 
 Have fun <b>;)</b>
 
