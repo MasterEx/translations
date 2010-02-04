@@ -2,8 +2,8 @@ Tux Guitar
 ----------
 
 <p><b>Tux Guitar</b> is a Multitrack tablature editor and player that supports guitar pro files reproduction in midi quality. It's open source and it's written in java.</p>
-<p>It's current version is 1.2 (release day: 01/11/2009) and you may download it's <a href="http://tuxguitar.herac.com.ar/">official website</a></p>
-<p>You may find the supported languages <a href="http://tuxguitar.svn.sourceforge.net/viewvc/tuxguitar/trunk/TuxGuitar/share/lang/">here</a>. As you can see Greek isn't supported yet so apparntly that's the reason I am writting this translation :)</p>
+<p>It's current version is 1.2 (release day: 01/11/2009) and you may download it from it's <a href="http://tuxguitar.herac.com.ar/">official website</a></p>
+<p>You may find the supported languages <a href="http://tuxguitar.svn.sourceforge.net/viewvc/tuxguitar/trunk/TuxGuitar/share/lang/">here</a>. As you can see Greek isn't supported yet so apparently that's the reason I am writting this translation :)</p>
 <p>Hopefully it will be ready very soon. For the unicode to ascii convertion I used <a href="http://rishida.net/tools/conversion/">http://rishida.net/tools/conversion/</a>.</p>
 <p>Also, <b>HAVE IN MIND</b> that you may find guitar pro tabs of Greek rock music at <a href="http://www.greekrocktabs.gr">http://www.greekrocktabs.gr</a>.</p>
 </br></br>
