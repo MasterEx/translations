@@ -6,5 +6,16 @@ Tux Guitar
 <p>You may find the supported languages <a href="http://tuxguitar.svn.sourceforge.net/viewvc/tuxguitar/trunk/TuxGuitar/share/lang/">here</a>. As you can see Greek isn't supported yet so apparently that's the reason I am writting this translation :)</p>
 <p>Hopefully it will be ready very soon. For the unicode to ascii convertion I used <a href="http://rishida.net/tools/conversion/">http://rishida.net/tools/conversion/</a>.</p>
 <p>Also, <b>HAVE IN MIND</b> that you may find guitar pro tabs of Greek rock music at <a href="http://www.greekrocktabs.gr">http://www.greekrocktabs.gr</a>.</p>
+
+Translation Status
+------------------
+
+<p>I am checking if all the words have been translated ok and if I have used the most appropriate words...</p>
+
+How To Install the Language
+---------------------------
+
+<p>In order to install a new language the only thing you have to do is to place the language file (in our case the mesages_el.properties) into the lang folder, specifically into <i>$TUXGUITAR_DIR\share\lang</i> and it will appear in languages next time you run the application. If you can't locate the file you can use <i>locate tuxguitar</i> in Linux or <i>right click on shortcut --> properties --> find target...</i> in Windows.</p>
 </br></br>
-<p>Periklis</p>
+
+<p><b>Periklis</b></p>
