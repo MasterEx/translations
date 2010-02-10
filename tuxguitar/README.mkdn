@@ -7,11 +7,6 @@ Tux Guitar
 <p>Hopefully it will be ready very soon. For the unicode to ascii convertion I used <a href="http://rishida.net/tools/conversion/">http://rishida.net/tools/conversion/</a>.</p>
 <p>Also, <b>HAVE IN MIND</b> that you may find guitar pro tabs of Greek rock music at <a href="http://www.greekrocktabs.gr">http://www.greekrocktabs.gr</a>.</p>
 
-Translation Status
-------------------
-
-<p>I am checking if all the words have been translated ok and if I have used the most appropriate words...</p>
-
 How To Install the Language
 ---------------------------
 
