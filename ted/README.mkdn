@@ -1,0 +1,17 @@
+TED - Torrent Episode Downloader
+--------------------------------
+
+<p><b>ted</b> can find episodes of any TV show you like to watch. </br>
+Just add your favorite shows to ted and he will search for the newest episodes and downloads them for you. </br>
+ted uses bittorrent and RSS technology to get you the newest episodes as fast as possible!</p>
+
+<b>ted webpage:</b> <a href=http://www.ted.nu/>http://www.ted.nu/</a>
+
+How To Install the Language
+---------------------------
+
+<p>Open the ted.jar with an archive manager and place the tedLang_xx_YY.properties (that would be tedLang_el_GR.properties for Greek) into /ted/translations/ .</br>
+Now the new language should be available in Preferences > Look and Feel > Language. </p>
+</br></br>
+
+<p><b>Periklis</b></p>
